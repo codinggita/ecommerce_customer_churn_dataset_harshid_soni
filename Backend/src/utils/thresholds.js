@@ -1,0 +1,17 @@
+module.exports = {
+  highPurchases: 21,
+  highLifetimeValue: 2600,
+  highCreditBalance: 3500,
+  highLoginFrequency: 22,
+  highMobileUsage: 31,
+  highDiscountRate: 70,
+  highCartAbandonmentRate: 77,
+  highReviews: 6,
+  highSessionDuration: 42,
+  lowSessionDuration: 10,
+  highAverageOrderValue: 180,
+  loyalMembershipYears: 5,
+  recentPurchaseDays: 14,
+  inactivePurchaseDays: 66,
+  premiumLifetimeValue: 2600,
+};
