@@ -1,0 +1,9 @@
+{
+  "name": "Customer Churn Dashboard",
+  "short_name": "ChurnDash",
+  "start_url": "/login",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "description": "Admin and user dashboards for ecommerce customer churn analytics."
+}
