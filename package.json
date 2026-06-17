@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-customer-churn-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install": "npm install --prefix Backend && npm install --prefix Frontend",
+    "build": "npm run build --prefix Frontend",
+    "start": "npm start --prefix Backend",
+    "test": "npm test --prefix Backend"
+  }
+}
